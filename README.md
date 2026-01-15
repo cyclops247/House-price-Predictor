@@ -1,0 +1,42 @@
+\# House Price Prediction – Data Preprocessing
+
+
+
+This repository contains the data preprocessing work for a House Price Prediction machine learning project.
+
+
+
+\## Current Status
+
+\- Data preprocessing implemented using Jupyter Notebook
+
+\- Dataset cleaning and feature scaling
+
+\- Visualization of results
+
+
+
+\## Files
+
+\- Jupyter Notebook: preprocessing code
+
+\- Output image: preprocessing results
+
+
+
+\## Next Steps
+
+\- Model training
+
+\- Model evaluation
+
+\- Prediction pipeline
+
+
+
+\## Author
+
+Priyanshu
+
+
+
