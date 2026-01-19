@@ -3,4 +3,4 @@ __pycache__/
 *.xlsx
 .env
 venv/
-2.ipynb
+*.csv
