@@ -13,6 +13,10 @@ This repository contains the data preprocessing work for a House Price Predictio
 \- Dataset cleaning and feature scaling
 
 \- Visualization of results
+\- splitted the data succesfully for train and test 
+\- used stratified split
+\- made a pipeline 
+\- used decision tree regressor as model
 
 
 
