@@ -17,7 +17,7 @@ This repository contains the data preprocessing work for a House Price Predictio
 \- used stratified split
 \- made a pipeline 
 \- used decision tree regressor as model
-
+\-successfully implemented the model but accuracy is not so good 
 
 
 \## Files
